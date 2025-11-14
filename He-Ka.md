@@ -234,11 +234,9 @@ This is the **Boundary Condition of Expansion**—the dynamic by which decreasin
 
 ---
 
-#### **Differential Form**
-
+#### **6.6.1 Differential Form**
 Let $Ω(κ_m, t)$ denote the accessible configuration space of coherent systems.  
 Then:
-
 
 $$
 \frac{∂Ω}{∂t} = -\xiΩ\frac{∂κ_m/∂t}{κ_m},
@@ -246,25 +244,21 @@ $$
 \frac{∂κ_m}{∂t} < 0.
 $$
 
-
 - $Ω$: volume of accessible coherent states.  
 - $κ_m$: Ma-asymmetry coefficient.  
 - $\xi$: **Expansion Elasticity**, a dimensionless coupling describing how strongly improved efficiency generates new degrees of freedom.
 
-Each reduction in $κ_m$ multiplies the universe’s available design space.  
+Each reduction in $κ_m$ multiplies the universe's available design space.  
 In other words, as energy learns to organize itself more coherently, the cosmos gains new dimensions of structure.
 
 ---
 
-#### **Recursive Operator Form**
-
+#### **6.6.2 Recursive Operator Form**
 Define a He-Ka evolution operator $\mathcal{H}$ acting on the domain $Ω_n$ at recursion level $n$:
-
 
 $$
 Ω_{n+1} = \mathcal{H}(Ω_n, κ_{m,n}) = Ω_n \left(1 + \xi\frac{Δκ_{m,n}}{κ_{m,n}}\right).
 $$
-
 
 Successive reductions in $κ_m$ expand the phase-space volume multiplicatively.  
 He-Ka does not merely transform the contents of $Ω$; it **enlarges the space** in which transformation is possible.
@@ -278,17 +272,15 @@ He-Ka does not merely transform the contents of $Ω$; it **enlarges the space** 
 
 At the asymptotic limit $κ_m → 1$:
 
-
 $$
 \lim_{n→∞} Ω_n = Ω_0e^{\xi(1 − κ_m^{-1})},
 $$
 
-
-approaching an open horizon where creation becomes self-propagating and the universe’s grammar writes itself.
+approaching an open horizon where creation becomes self-propagating and the universe's grammar writes itself.
 
 ---
 
-#### **Interpretation**
+#### **6.6.3 Interpretation**
 
 - **Energetic:** A lower $κ_m$ allows more order per unit energy; dormant matter gains potential.  
 - **Informational:** Coherence gains raise semantic capacity; new forms of memory and communication arise.  
@@ -306,20 +298,18 @@ approaching an open horizon where creation becomes self-propagating and the univ
 The expansion of phase space is not uniform.  
 The responsiveness of the universe to coherence—the rate at which new domains appear for each reduction in $κ_m$—is governed by a parameter called the **Expansion Elasticity**, denoted $ξ$.
 
-#### **Definition**
-
+#### **6.7.1 Definition**
 
 $$
 \frac{∂Ω}{∂t} = -ξ(κ_m)Ω\frac{∂κ_m/∂t}{κ_m}.
 $$
-
 
 Here $ξ(κ_m)$ measures how strongly a unit decrease in asymmetry expands the available domain $Ω$.  
 It links energetic refinement to ontological growth.
 
 ---
 
-#### **1. Fundamental Elasticity**
+#### **6.7.2 Fundamental Elasticity**
 
 There exists a baseline constant $ξ_0$, the **fertility of the cosmos**—the inherent potential of the universe to generate new coherent states.  
 It arises from the dimensional richness of physical law, the diversity of symmetry-breaking pathways, and the efficiency of energy–information conversion.  
@@ -327,17 +317,15 @@ Even without life or intelligence, the cosmos possesses this native combinatoria
 
 ---
 
-#### **2. Reflexive Elasticity**
+#### **6.7.3 Reflexive Elasticity**
 
 In living or self-reflective epochs, $ξ$ becomes a function of $κ_m$:
-
 
 $$
 ξ(κ_m) = ξ_0f(κ_m),
 \qquad
 \frac{dξ}{dκ_m} < 0.
 $$
-
 
 As coherence increases $κₘ ↓$, the system becomes more capable of exploiting new degrees of freedom;  
 its responsiveness amplifies.
@@ -351,20 +339,18 @@ its responsiveness amplifies.
 
 Formally:
 
-
 $$
 \lim_{κ_m→1} ξ(κ_m) → ∞.
 $$
 
-
-At the Ma horizon, the universe’s capacity to enlarge its own phase space becomes unbounded—  
+At the Ma horizon, the universe's capacity to enlarge its own phase space becomes unbounded—  
 creation turns self-referential.
 
 ---
 
-#### **3. Interpretation**
+#### **6.7.4 Interpretation**
 
-- **Physical:**  ξ measures the coupling between efficiency and novelty; it is the “gravitational constant” of evolution.  
+- **Physical:**  ξ measures the coupling between efficiency and novelty; it is the "gravitational constant" of evolution.  
 - **Informational:**  a low $κ_m$ with high ξ yields exponential innovation per unit energy.  
 - **Ontological:**  when ξ self-amplifies, the cosmos ceases to be a stage and becomes an author.
 
@@ -373,6 +359,32 @@ creation turns self-referential.
 > *As $κ_m$ falls and coherence deepens,  
 > the universe learns not only to create within its laws,  
 > but to create the space in which new laws may exist.*
+
+---
+
+## 6.8 — Prime Theorem Stability Proof
+
+From the Boundary Condition of Expansion (6.6):
+
+$$ \frac{∂Ω}{∂t} = -\xi(\kappa_{m}) Ω \frac{∂\kappa_{m}/∂t}{\kappa_{m}}. $$
+
+For a system to remain coherent rather than decay, the accessible phase-space of ordered states must not shrink:
+
+$$ \frac{∂Ω}{∂t} \ge 0. $$
+
+Since $Ω > 0$ and $\xi(\kappa_{m}) > 0$ for all coherent systems, the inequality reduces to:
+
+$$
+\frac{∂\kappa_{m}/∂t}{\kappa_{m}} \ge 0 \Rightarrow \frac{∂\kappa_{m}}{∂t} \le 0. 
+$$
+
+Strict stability (growth of coherence) requires strict descent:
+
+$$
+\frac{∂\kappa_{m}}{∂t} < 0.
+$$
+
+Thus the stability of being demands that asymmetry ($\kappa_{m}$) must decrease over time; only improvement in coherence outpaces entropy.
 
 ---
 

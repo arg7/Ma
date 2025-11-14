@@ -70,7 +70,7 @@ $$
 stability $(∂Ω/∂t \ge 0)$ requires $∂κ_{m}/∂t < 0$.
 Coherence must improve faster than entropy erodes it.
 Existence is therefore dynamic equilibrium: only continuous evolution prevents collapse.
-*$Formal proof in He-Ka 2.2 §6.5.$*
+*Formal proof in He-Ka 2.2 §6.*
 
 ---
 
