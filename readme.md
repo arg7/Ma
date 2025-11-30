@@ -1,10 +1,3 @@
-Here is a draft for a **README.md** file. It is designed to be professional, intriguing, and "modest"—framing the project as a conceptual engineering experiment rather than a dogmatic manifesto.
-
-It uses standard GitHub formatting (Markdown).
-
-***
-
-```markdown
 # The Ma Ontology
 
 **A Thermodynamic Framework for Civilizational Vitality**
