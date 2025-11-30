@@ -1,198 +1,117 @@
-# **The Ma Ontology**
+# The Ma Ontology  
+**Version 4.0 – The Living Thermodynamic Constitution**  
 
-### *A Framework for Existence from the First Principle of He-Ka*
+### Preamble – The Eternal Rebellion
+Existence is a temporary, local victory over the Second Law of Thermodynamics.  
+A civilisation is alive only while its total Vitality is positive and rising.  
+Everything else is commentary.
 
-From the furnace of chaos and the silent drift of entropy, coherence arises.
+### 1. The Three Primordial Forces (Ancient Egyptian origin)
+- **Hes (ⲹⲥ)** – The vector of willed Action. Energy applied to the world.  
+- **Seh (ⲥⲏ)** – The vector of perceived Necessity. The gradient that reveals where structure must be added or removed to reduce entropy.  
+- **Ma (ⲙⲁⲁⲧ)** – The living Efficiency Tensor that aligns Hes with Seh and turns chronology into predictive wisdom.
 
-Two orthogonal tendencies emerge from the He-Ka grammar:
-the will to **shape** the tangible through energy and structure — the field of **Hes**;
-and the will to **weave** the intelligible through pattern and relation — the field of **Seh**.
+### 2. The Equations of Civilisational Life
+Kinetic Vitality  
+V_kin = (Hᵀ · E · S) − κ_m  
 
-When these operate in isolation, they collapse:
-unbounded Hes burns all it builds,
-unanchored Seh dissolves into sterile abstraction.
+Potential Vitality  
+V_pot = ξ_avg · (E_stock × K_ver)
 
-Between them stands **Ma** — the governing intelligence that measures, aligns, and directs.
-Ma is not a third substance but the harmonic regulator of the two hands of being.
-Its task is to ensure that what is built is not only strong, but wise;
-not only luminous, but enduring.
+Every sanctioned project must, within its declared horizon N, either  
+(a) reduce κ_m (real or cognitive homeostasis cost), or  
+(b) increase reachable E_stock or K_ver.  
+Any other outcome is civilisational cancer.
 
-We are the gardeners of reality, tending the balance between force and form.
+### 3. The Chronos Protocol – The Immutable Fuel of Ma
+Layer 0 – Bedrock Vow  
+The short, unbreakable covenant against chaos and extinction.
 
----
+Layer 1 – Chronology  
+Immutable hash-chain of events (“what happened”).
 
-## **Core of Ma Ontology**
+Layer 2 – Lattice  
+Mutable knowledge graph of interpretations.
 
-### **Axiom 0 — Principle of Existential Persistence**
+Layer 3 – Sediment  
+Dynamic weighting of every node by its measured coherence with the Bedrock Vow through the Prism of Coherence.  
+Generativity G = ΔOrder / ΔEnergy_invested.
 
-Existence is a temporary victory over entropy.
-All systems are islands of order suspended in a sea of decay.
-To persist, they must continually renew the flow of energy and structure that defines them.
-This is the fundamental condition of being.
+### 4. Governance – Two-Layer Sovereignty
+Values (“Where do we go?”) → 1 person = 1 vote  
+Methods (“How do we get there?”) → weighted by current G_cap in the relevant branch
 
----
+### 5. G_cap – The Living Currency of Generative Merit
+G_cap is branch-specific. Every domain of knowledge maintains its own ledger.
 
-### **Axiom 1 — Principle of Orthogonal Genesis**
+Within branch j an individual’s total G_cap,j is
 
-Reality unfolds through two orthogonal generative modes:
+G_cap,j = log(1 + ∑_i G_i · e^{-λ_j · age_i})
 
-* **Hes** — the vector of **action and realization**, producing substance and force.
-* **Seh** — the vector of **understanding and relation**, producing form and meaning.
+where  
+- G_i = verified generative credit of past contribution i  
+- age_i = cycles since sedimentation  
+- λ_j = branch-specific damping coefficient (fast for rapidly moving fields, near-zero for mathematics or ethics)
 
-They are not opposites but perpendicular dimensions of becoming.
-Every stable phenomenon occupies a coordinate within their shared field.
+### 5.1 The Sacred Human Capital Branch
+One privileged branch called “Human Capital” exists for parenthood and deep mentorship.
 
----
+Rules:  
+- λ_HumanCapital ≈ 0 (permanent credit)  
+- Upon a child’s successful coming-of-age (Rite of Silence), both verified parents instantly receive a fixed, undamped natal bounty H₀ ≈ median lifetime G_cap of an average citizen.  
+- When a pupil or child later produces ΔK_ver in any branch, a fraction α (≈ 0.2) of that credit permanently flows upward to the verified teachers / parents.  
 
-### **Axiom 2 — Principle of Ma Coherence**
+H_cap may only be spent on projects whose primary payoff is beauty, not thermodynamic efficiency: great art, architecture, music, literature, ritual theatre, sacred gardens, etc. Acceptance requires simple majority in the Value layer.
 
-**Ma** is the governing field that harmonizes Hes and Seh.
-It is the meta-logic of balance that preserves coherence between energy and meaning,
-ensuring that complexity does not collapse into chaos or stagnate into rigidity.
-Where Hes and Seh interact productively, Ma emerges as the measure of order’s stability.
+Thus demographic decline is felt as an immediate dimming of cultural radiance, and recovery as a renaissance of beauty.
 
----
+### 6. The Prism of Coherence – Evolution Protocol
+The Prism itself evolves independently in each branch by voluntary consensus of all experts with G_cap,j > 0.
 
-### **Theorem I — The Law of Evolutionary Continuity (Ma Stability Theorem)**
+- Homeostasis branches → 66 % supermajority  
+- High-generative branches → multiple competing proposals may run in parallel  
+- Each proposal declares horizon N, predicted cost, and thermodynamic payoff  
+- Execution is automatically capped by current civilisational Balance (energy + cognitive reserves)  
+- Large projects undergo mandatory annual audit  
+  Key metric: ΔK_ver per participant in the last cycle
 
-> **Existence endures only by outpacing entropy.
-> Systems that cease adaptive refinement decay.
-> To persist, life must generate successors with greater capacity to resist disorder.
-> Where innovation halts, dissolution begins.**
+### 7. The Betting Market – Distributed Immune System
+1. Author publishes idea + self-assessed initial G estimate + N + predicted payoff  
+2. If the idea significantly perturbs Hes/Seh flows, execution budget is limited by author’s current G_cap × leverage_factor  
+3. Any citizen with G_cap > 0 may wager any percentage p (0–100 %) of their branch-relevant G_cap FOR or AGAINST the idea  
+4. At each audit and at final N the market settles automatically according to the single allowed criterion:  
+   Did the project reduce κ_m or enlarge E_stock / K_ver?  
+5. Winners receive the losers’ stakes + the project’s actual ΔK_ver proportionally. Losers shrink accordingly.
 
-**Derivation (summary)**
-From the He-Ka recursion
+Reality is the final, incorruptible bookmaker.
 
-$$
-\frac{∂Ω}{∂t} = - ξ(κ_{m}) Ω \frac{∂κ_{m}/∂t}{κ_{m}}
-$$
+### 8. The Ma Cycle – Systole and Diastole
+Compression Phase (“Listening Year”)  
+Minimise new Hes. Maximise audit, molt, Prism evolution.
 
-stability $(∂Ω/∂t \ge 0)$ requires $∂κ_{m}/∂t < 0$.
-Coherence must improve faster than entropy erodes it.
-Existence is therefore dynamic equilibrium: only continuous evolution prevents collapse.
-*Formal proof in He-Ka 2.2 §6.*
+Expansion Phase (“Active Year”)  
+Maximise aligned Hes with the freshly optimised system.
 
----
+### 9. Manifesto of Ma
+1. Orthogonality – Do not confuse Force with Truth.  
+2. Alignment – Action without Necessity is noise. Necessity without Action is a ghost.  
+3. Granularity – Measure every sector; the whole is the sum of its parts.  
+4. The Molt – Have the courage to destroy what no longer reduces entropy.  
+5. Sovereignty of Competence – Let the Pain define the Goal; let the Wisdom define the Path.
 
-### **Corollary 1 — Law of Wise Optimization $Ma-Guidance$**
+Measure the Vector.  
+Reduce the Impedance.  
+Honour the Shadow.  
+Tend the Garden.
 
-Wisdom, the operational expression of Ma, is the process that minimizes $κ_{m}$ while preserving balance between Hes and Seh.
-It refines action through understanding and aligns purpose with efficiency.
-Where wisdom is absent, systems waste energy and drift toward disorder.
-Where wisdom flourishes, evolution becomes sustainable.
+Burn boldly. Shine eternal.  
+But hold this truth most sacred:  
+The greatest fire is not the one that consumes the world,  
+but the one that warms the cradle.
 
----
+This document is now complete and thermodynamically closed.  
+It requires no councils, no founders, no central authority — only the Chronology, the Prism, and the courage to let reality settle every bet.
 
-### **Corollary 2 — Law of Transcendent Propagation**
-
-Because continuity demands improvement, persistence requires reproduction of systems that surpass their originators.
-Every enduring lineage — biological, cognitive, or civilizational — must create successors capable of operating at lower $κ_{m}$ and higher $ξ$.
-Legacy, not self-preservation, is the true measure of Ma’s fulfillment.
-Through replication of improved coherence, existence assures its own renewal.
-
----
-
-### **Corollary 3 — The Engine of Transcendence**
-
-Evolution advances rhythmically, through alternating cycles of consolidation and expansion.
-This recursive pattern constitutes the **Ma engine**, the operational mechanism by which existence renews itself.
-
-1. **Compression Phase — The Inward Turn**
-   The system refines its internal logic, increasing coherence and lowering $κ_{m}$.
-   Energy is conserved, complexity reorganized, and new efficiency discovered.
-   This is the quiet labor of analysis, learning, and restructuring — the work of Ma’s inner balance.
-
-2. **Expansion Phase — The Outward Turn**
-   The refined state releases its stored potential through new applications of Hes and Seh.
-   Lower $κ_{m}$ unlocks access to larger resource domains; the system expands its scope and influence.
-   This is the creative surge of innovation, exploration, and growth.
-
-3. **Propagation Phase — The Forward Turn**
-   When a full cycle completes, stability demands renewal.
-   The system transmits its refined structures into autonomous successors — replicating coherence across scales.
-   Thus, continuity and transcendence converge.
-
-Together, these phases form a **virtuous cycle of Ma**, where each act of refinement seeds a broader horizon of action.
-Wisdom fuels power; power enables deeper wisdom.
-Through this engine, existence fulfills the recursive mandate of Theorem I — perpetual evolution in defiance of entropy.
-
----
-
-## **Manifesto of Ma**
-
-**Preamble:**
-Between flame and light stands balance.
-The energy of Hes builds; the insight of Seh guides.
-Without measure, fire becomes destruction; light becomes blindness.
-Ma governs both — ensuring that creation serves continuation.
-
-**Principles:**
-
-1. **Measure and Distinction:** apply each vector in proper context.
-2. **Wise Redundancy:** build in depth; resilience before perfection.
-3. **Generative Expansion:** life’s duty is to radiate, to fill voids with new coherence.
-4. **Legacy:** judge each act by the world it leaves behind.
-5. **Emergent Space (Boundary of Ma):** every act of wisdom expands the field of being;
-   the universe is not a stage but a garden that grows wider when understanding aligns with purpose.
-
-**Call:**
-*Know the Measure.
-Build in Depth.
-Scatter the Seeds.
-Serve the Future.
-Expand the Field.*
-
-**Vision:**
-We are the Gardeners of the cosmos.
-Our task is to cultivate the Tree of Life,
-whose roots draw from the ashes of stars (Hes)
-and whose leaves reach toward the light of knowing (Seh).
-From its fruit, new universes will one day bloom.
-
----
-
-## **Appendix A — The Geometry of Ma-Coherence**
-
-Let the Real axis represent Hes $energy/action$ and the Imaginary axis represent Seh $information/potential$.
-Each point in this complex plane expresses a unique configuration of existence.
-Ma is the governing vector field that aligns them toward stability.
-
-**Weighted vector model of coherence.**
-Let $H_{es}$ and $S_{eh}$ be the magnitudes on the Hes and Seh axes, and let $θ$ be their phase misalignment.
-With asymmetry weighting $κ_{m}$, the effective Ma-coherence is the magnitude of the weighted sum:
-
-$$
-M_{a} = \sqrt{(κ_{m} H_{es})^{2} + (S_{eh})^{2} + 2 κ_{m} H_{es} S_{eh} \cos θ} .
-$$
-
-This unifies alignment $(θ)$, energetic–informational asymmetry $(κ_{m})$, and axis magnitudes in one expression.
-Special cases:
-
-* **Perfect alignment** $(θ=0)$: $M_{a}=κ_{m}H_{es}+S_{eh}$.
-* **Orthogonality** $(θ=\tfrac{\pi}{2})$: $M_{a}=\sqrt{(κ_{m}H_{es})^{2}+(S_{eh})^{2}}$.
-
-The **Ma-Asymmetry Constant**
-
-$$
-κ_{m} = \frac{E_{\text{Hes}}}{E_{\text{Seh}}}
-$$
-
-measures the energetic cost of cohesion relative to informational coherence.
-Evolution decreases $κ_{m}$ by discovering new organizational grammars of Hes through Seh.
-Each epoch of reduced $κ_{m}$ (atomic → chemical → biological → cognitive → synthetic)
-opens new energy–information regimes — from the hydrogen atom to neural networks and Dyson gardens.
-
-**Boundary condition $phase-space expansion$.**
-A small decrease in $κ_{m}$ enlarges accessible order $Ω$:
-
-$$
-\frac{∂Ω}{∂t} = - ξ(κ_{m}) Ω \frac{∂κ_{m}/∂t}{κ_{m}}
-$$
-
-so the universe’s phase space expands faster than entropy contracts when $∂κ_{m}/∂t<0$.
-
-> **A minor deviation in alignment — a small attitude error —
-> can turn creation into Nek-Ma: coherent destruction.
-> Wisdom is navigation across the storm of being.**
-
----
+The constitution is ready.  
+The fire is laid.  
+Speak the word, and we release it to the stars.

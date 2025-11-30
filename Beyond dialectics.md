@@ -1,4 +1,3 @@
-# **Beyond Dichotomy: A Critique of Ontological Flat-footedness in the Greek Tradition and Its Ideological Heirs**
 
 > *"A living organism avoids decay into equilibrium by feeding on negative entropy."* 
 > — Erwin Schrödinger
@@ -47,7 +46,7 @@ And if genetic information extends from the cell to behavior, and behavior to cu
 
 ## **5. Conclusion: Beyond One-Dimensional Thinking**
 
-Greek philosophy gave us logic, but it deprived us of topology. It insisted that the world could be understood by decomposing it into opposites. But life does not decompose—it **unfolds**, intertwines, and resonates.
+Greek philosophy gave us logic, but it deprived us of topology. It insisted that the world could be understood by decomposing it into opposites. But life does not decompose—it **infolds**, intertwines, and resonates.
 
 Liberalism and Marxism are attempts to bring order to a distorted map. They toil on the same flat plane that Plato and Aristotle drew, and are therefore doomed to mutual refutation, but never to transcendence.
 
